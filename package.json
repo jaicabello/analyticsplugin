@@ -1,0 +1,32 @@
+{
+  "name": "cordova.analyticsplugin",
+  "version": "0.0.1",
+  "description": "Analytics Plugin",
+  "cordova": {
+    "id": "cordova.analyticsplugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://developer.huawei.com/consumer/en/service/hms/developer.html"
+  },
+  "keywords": [
+    "HMS",
+    "Analytics",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Ceyhun ERTURK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://developer.huawei.com/consumer/en/service/hms/developer.html"
+  },
+  "homepage": "https://developer.huawei.com/consumer/en/service/hms/developer.html"
+}
